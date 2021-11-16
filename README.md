@@ -1,23 +1,30 @@
-<h1 align="center">Hi 👋, I'm Magnus</h1>
-<h3 align="center">A passionate frontend developer student from Sweden</h3>
+<h1 align="center">Hi 👋, I'm Magnus 👨‍🦳🥱</h1>
+<h3 align="center">A passionate frontend developer student from Sweden ❄️ ☃️ 🇸🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahlstrommm&label=Profile%20views&color=ae3d8a&style=plastic" alt="wahlstrommm" /> </p>
+
+- 🔭 I’m currently working on **Che & school stuff**
 
 - 🌱 I’m currently learning **everything**
 
 - 👨‍💻 All of my projects are available at [@](@)
 
+- ⚽ Spare time [🎧 🎮 🖥️ 📖 💪](🎧 🎮 🖥️ 📖 💪)
+
 - 💬 Ask me about **anything**
+
+- 📫 How to reach me **smoke signals or carrier pigeons 🔥 🐦**
 
 - 📄 Know about my experiences [@](@)
 
-- ⚡ Fun fact **i'm a poster boy for Kalles kaviar**
+- ⚡ Fun fact: **i'm a poster boy for Kalles kaviar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/magnus-vahlstr%c3%b6m-836629220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/magnus-vahlstr%c3%b6m-836629220/" height="30" width="40" /></a>
+<a href="https://codepen.io/wahlstrommm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wahlstrommm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/magnus-vahlström-836629220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magnus-vahlström-836629220" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15396268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15396268" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/magnus.wahlstrommm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/magnus.wahlstrommm/" height="30" width="40" /></a>
+<a href="https://fb.com/magnus.wahlstrommm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="magnus.wahlstrommm" height="30" width="40" /></a>
 <a href="https://instagram.com/magnusvahlstrom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="magnusvahlstrom" height="30" width="40" /></a>
 </p>
 
