@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [@](@)
 
-- ⚽ Spare time [🎧 🎮 🖥️ 📖 💪](🎧 🎮 🖥️ 📖 💪)
+- ⚽ Spare time 🎧 🎮 🖥️ 📖 💪 
 
 - 💬 Ask me about **anything**
 
