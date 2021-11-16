@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [@](@)
 
-- ⚽ Spare time 🎧 🎮 🖥️ 📖 💪 
+- ⚽ Spare time [🎧 🎮 🖥️ 📖 💪](🎧 🎮 🖥️ 📖 💪)
 
 - 💬 Ask me about **anything**
 
@@ -22,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/wahlstrommm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wahlstrommm" height="30" width="40" /></a>
+<a href="https://dev.to/wahlstrommm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wahlstrommm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/magnus-vahlström-836629220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magnus-vahlström-836629220" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15396268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15396268" height="30" width="40" /></a>
 <a href="https://fb.com/magnus.wahlstrommm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="magnus.wahlstrommm" height="30" width="40" /></a>
