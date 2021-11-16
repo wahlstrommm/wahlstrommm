@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Magnus</h1>
 <h3 align="center">A passionate frontend developer student from Sweden</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahlstrommm&label=Profile%20views&color=0e75b6&style=flat" alt="wahlstrommm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahlstrommm&label=Profile%20views&color=ae3d8a&style=plastic" alt="wahlstrommm" /> </p>
 
 - 🌱 I’m currently learning **everything**
 
@@ -27,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahlstrommm&show_icons=true&locale=en&layout=compact" alt="wahlstrommm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahlstrommm&show_icons=true&locale=en" alt="wahlstrommm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahlstrommm&theme=dark" alt="wahlstrommm" /></p>
