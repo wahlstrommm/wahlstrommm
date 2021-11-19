@@ -26,7 +26,7 @@
 <a href="https://fb.com/magnus.wahlstrommm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="magnus.wahlstrommm" height="30" width="40" /></a>
 <a href="https://instagram.com/magnusvahlstrom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="magnusvahlstrom" height="30" width="40" /></a>
 </p>
-
+[![Spotify](https://novatorem-wahlstrommm.vercel.appapi/spotify)](https://open.spotify.com/user/Magnus1995)
 
 
 
