@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahlstrommm&label=Profile%20views&color=ae3d8a&style=plastic" alt="wahlstrommm" /> </p>
 
-- 🔭 I’m currently working on **Che & school stuff**
+- 🔭 I’m currently working on **project & school stuff**
 
 - 🌱 I’m currently learning **everything**
 
