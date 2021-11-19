@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **smoke signals or carrier pigeons 🔥 🐦**
+- 📫 How to reach me **smoke signals or carrier pigeons 🔥 🐦              or Wahlstrommm@gmail.com**
 
 - 📄 Know about my experiences [@](@)
 
