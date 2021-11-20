@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Magnus 👨‍🦳🥱 aka Skurken</h1>
+<h1 align="center">Hi 👋, I'm Magnus 👨‍🦳🥱 aka Skurken :octocat:</h1>
 <h3 align="center">Somewhat young Frontend developer student from Sweden ❄️ ☃️ 🇸🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahlstrommm&label=Profile%20views&color=ae3d8a&style=plastic" alt="wahlstrommm" /> </p>
