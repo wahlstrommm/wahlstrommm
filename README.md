@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Magnus 👨‍🦳🥱</h1>
-<h3 align="center">A passionate frontend developer student from Sweden ❄️ ☃️ 🇸🇪</h3>
+<h1 align="center">Hi 👋, I'm Magnus 👨‍🦳🥱 aka Skurken</h1>
+<h3 align="center">Somewhat young Frontend developer student from Sweden ❄️ ☃️ 🇸🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahlstrommm&label=Profile%20views&color=ae3d8a&style=plastic" alt="wahlstrommm" /> </p>
 
-- 🔭 I’m currently working on **Projects & school stuff**
+- 🔭 I’m currently working on : **Projects & school stuff**
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning : **everything**
 
-- 👨‍💻 All of my projects are available at [@](@)
+- 👨‍💻 All of my projects are available at : TBA....
 
-- 👨‍🏭 Spare time 🎧 🎮 🖥️ 📖 💪
+- 👨‍🏭 Spare time : [🎧 🎮 🖥️ 📖 💪](🎧 🎮 🖥️ 📖 💪)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about : **J.Cole (❄world)**
 
-- 📫 How to reach me **smoke signals or carrier pigeons 🔥 🐦 or Wahlstrommm@gmail.com**
+- 📫 How to reach me : **smoke signals or carrier pigeons 🔥 🐦 or Wahlstrommm@gmail.com**
 
-- 📄 Know about my experiences [@](@)
+- 📄 Know about my experiences : Ask!
 
 - ⚡ Fun fact: **i'm a poster boy for Kalles kaviar**
 
