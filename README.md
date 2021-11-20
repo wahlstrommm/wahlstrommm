@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences : [Ask](Ask)
 
-- ⚡ Fun fact: **i'm a poster boy for Kalles kaviar**
+- ⚡ Fun fact: **i'm a poster boy for Kalles kaviar :trollface:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
