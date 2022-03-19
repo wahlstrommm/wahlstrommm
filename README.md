@@ -12,29 +12,6 @@
 </p>
 
 
-
-
-- 🔭 I’m currently working on : **Projects & school stuff**
-
-- 🌱 I’m currently learning : **everything**
-
-- 👨‍💻 All of my projects are available at : [TBA](TBA)
-
-- 👨‍🏭 Spare time : [🎧 🎮 🖥️ 📖 💪](🎧 🎮 🖥️ 📖 💪)
-
-- 💬 Ask me about : **J.Cole (❄world)**
-
-- 📫 How to reach me : **smoke signals or carrier pigeons 🔥 🐦 or Wahlstrommm@gmail.com**
-
-- 📄 Know about my experiences : [Ask](Ask)
-
-- ⚡ Fun fact: **i'm a poster boy for Kalles kaviar**
-
-
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=magnus1995&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 <h3 align="left">Languages:</h3>
 <p align="left"> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -67,6 +44,29 @@
 
 
  <br><br>
+
+- 🔭 I’m currently working on : **Projects & school stuff**
+
+- 🌱 I’m currently learning : **everything**
+
+- 👨‍💻 All of my projects are available at : [TBA](TBA)
+
+- 👨‍🏭 Spare time : [🎧 🎮 🖥️ 📖 💪](🎧 🎮 🖥️ 📖 💪)
+
+- 💬 Ask me about : **J.Cole (❄world)**
+
+- 📫 How to reach me : **smoke signals or carrier pigeons 🔥 🐦 or Wahlstrommm@gmail.com**
+
+- 📄 Know about my experiences : [Ask](Ask)
+
+- ⚡ Fun fact: **i'm a poster boy for Kalles kaviar**
+
+
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=magnus1995&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahlstrommm&show_icons=true&theme=dark&title_color=b6bebe&text_color=ffffff&bg_color=404040&hide_border=true&locale=en&layout=compact" alt="wahlstrommm" /></p>
 
