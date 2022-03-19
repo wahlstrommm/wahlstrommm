@@ -55,9 +55,9 @@
 
 <h3 align="left">Spare time:</h3>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" width="40" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" width="40" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40" />  
+<img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.svg" alt="Raspberry Pi" width="40" height="40" />  
+<img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" width="40" height="40" />  
+<img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40" />  
  <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahlstrommm&show_icons=true&theme=dark&title_color=b6bebe&text_color=ffffff&bg_color=404040&hide_border=true&locale=en&layout=compact" alt="wahlstrommm" /></p>
