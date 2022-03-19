@@ -7,7 +7,6 @@
 <a href="https://stackoverflow.com/users/15396268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15396268" height="30" width="40" /></a>
 <a href="https://fb.com/magnus.wahlstrommm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="magnus.wahlstrommm" height="30" width="40" /></a>
 <a href="https://instagram.com/magnusvahlstrom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="magnusvahlstrom" height="30" width="40" /></a>
-<a href="https://github.com/wahlstrommm" target="blank"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height="30" width="40"  alt='github' ></a>
 </p>
 
 
