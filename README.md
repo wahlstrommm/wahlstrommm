@@ -29,7 +29,7 @@
 - 📄 Know about my experiences : [Ask](Ask)
 
 - ⚡ Fun fact: **i'm a poster boy for Kalles kaviar**
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=magnus1995&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
