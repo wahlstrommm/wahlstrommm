@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahlstrommm&label=Profile%20views&color=ae3d8a&style=plastic" alt="wahlstrommm" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahlstrommm" alt="wahlstrommm" /></a> </p>
+
 - 🔭 I’m currently working on : **Projects & school stuff**
 
 - 🌱 I’m currently learning : **everything**
@@ -33,3 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahlstrommm&show_icons=true&theme=dark&title_color=b6bebe&text_color=ffffff&bg_color=404040&hide_border=true&locale=en&layout=compact" alt="wahlstrommm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahlstrommm&show_icons=true&theme=dark&title_color=beb6b6&text_color=ffffff&bg_color=404040&hide_border=true&locale=en" alt="wahlstrommm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahlstrommm&theme=dark" alt="wahlstrommm" /></p>
