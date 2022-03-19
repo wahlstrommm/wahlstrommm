@@ -1,4 +1,4 @@
-<h1 align="center">Hi �<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Magnus 👨‍🦳🥱 aka Skurken</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Magnus 👨‍🦳🥱 aka Skurken</h1>
 <h3 align="center">Somewhat young Frontend developer student from Sweden ❄️ ☃️ 🇸🇪</h3>
 
 <h3 align="left">Connect with me:</h3>
