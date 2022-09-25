@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Magnus 👨‍🦳🥱</h1>
 <h2 align="center">Frontend developer student from Sweden ❄️ ☃️ 🇸🇪</h2>
 <p align="center">
-<img src="Magnus_.png" height="500" width="80%"/>
+<img src="Magnus_.png" height="100%" width="100%"/>
 </p>
 
 <p align="center">
