@@ -64,13 +64,34 @@
  <a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="webflow" width="40" height="40" /> </a><a href="https://shopify.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="shopify" width="40" height="40" /> </a>
 </p>
 
+#
 
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahlstrommm&show_icons=true&theme=dark&title_color=b6bebe&text_color=ffffff&bg_color=404040&hide_border=true&locale=en&layout=compact" alt="wahlstrommm" />
- 
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=wahlstrommm&show_icons=true&theme=dark&title_color=beb6b6&text_color=ffffff&bg_color=404040&hide_border=true&locale=en" alt="wahlstrommm" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=magnus1995&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-<a href="https://app.daily.dev/wahlstrommm"><img src="https://github.com/wahlstrommm/wahlstrommm/blob/main/devcard.svg" width="400" alt="MW's Dev Card"/></a>
+ <p>&nbsp;</p>
+
+
+
+
+
+
+
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p>&nbsp;</p>
+
+
+##
+
+
+
+<a href="https://app.daily.dev/wahlstrommm" algin="right"><img algin="right" src="https://github.com/wahlstrommm/wahlstrommm/blob/main/devcard.svg" width="400" alt="MW's Dev Card"/></a>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=magnus1995&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
