@@ -93,5 +93,5 @@
 
 
 
-<a href="https://app.daily.dev/wahlstrommm" algin="right"><img algin="right" src="https://github.com/wahlstrommm/wahlstrommm/blob/main/devcard.svg" width="400" alt="MW's Dev Card"/></a>
+<a href="https://app.daily.dev/wahlstrommm" algin="right"><img algin="right" src="https://github.com/wahlstrommm/wahlstrommm/blob/main/devcard.svg" width="300" alt="MW's Dev Card"/></a>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=magnus1995&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
