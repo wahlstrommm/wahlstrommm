@@ -104,18 +104,18 @@
   <summary>Some of my projects 📂</summary>
   
   ###
-  <a href="https://restaurangche.se" align="left">
+  <a href="https://restaurangche.se" align="left" target="_blank">
   <img src="che.jpg" width="30%" align="left">
 </a>
 
-<a href="https://assarbertil.github.io/spelprogrammering/" align="right">
+<a href="https://assarbertil.github.io/spelprogrammering/" align="right" target="_blank">
   <img src="jeff-spel.jpg" width="50%" align="left">
 </a>
 
-<a href="https://gridpainter-frontend.herokuapp.com/" align="right">
+<a href="https://gridpainter-frontend.herokuapp.com/" align="right" target="_blank">
   <img src="gridpainter.jpg" width="50%" algin="right">
 </a>
-<a href="https://medieinstitutet.github.io/fed21d-grafiska-verktyg-croissant/" align="right">
+<a href="https://medieinstitutet.github.io/fed21d-grafiska-verktyg-croissant/" align="right" target="_blank">
   <img src="bakery.jpg" width="50%" algin="right">
 </a>
 
