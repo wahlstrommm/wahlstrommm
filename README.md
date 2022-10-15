@@ -101,7 +101,7 @@
 
 ##
 <details>
-  <summary>Some of my projects 📂</summary>
+  <summary>Some of my projects demo 📂</summary>
   
   ###
   <a href="https://restaurangche.se" align="left" target="_blank">
