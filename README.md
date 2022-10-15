@@ -115,6 +115,8 @@
 <a href="https://gridpainter-frontend.herokuapp.com/" align="right">
   <img src="gridpainter.jpg" width="50%" algin="right">
 </a>
-
+<a href="https://medieinstitutet.github.io/fed21d-grafiska-verktyg-croissant/" align="right">
+  <img src="bakery.jpg" width="50%" algin="right">
+</a>
 
 </details>
