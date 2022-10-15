@@ -98,3 +98,23 @@
 
 <a href="https://app.daily.dev/wahlstrommm" algin="right"><img algin="right" src="https://github.com/wahlstrommm/wahlstrommm/blob/main/devcard.svg" width="300" alt="MW's Dev Card"/></a>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=magnus1995&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+##
+<details>
+  <summary>Some of my projects 📂</summary>
+  
+  ###
+  <a href="https://restaurangche.se" align="left">
+  <img src="che.jpg" width="30%" align="left">
+</a>
+
+<a href="https://assarbertil.github.io/spelprogrammering/" align="right">
+  <img src="jeff-spel.jpg" width="50%" align="left">
+</a>
+
+<a href="https://gridpainter-frontend.herokuapp.com/" align="right">
+  <img src="gridpainter.jpg" width="50%" algin="right">
+</a>
+
+
+</details>
