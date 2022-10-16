@@ -63,7 +63,7 @@
 #
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahlstrommm&show_icons=true&theme=dark&title_color=b6bebe&text_color=ffffff&bg_color=404040&hide_border=true&locale=en&layout=compact" alt="wahlstrommm"   width=45%/>
-<img align="right" width=50%  src="https://github-readme-stats.vercel.app/api?username=wahlstrommm&show_icons=true&theme=dark&title_color=beb6b6&text_color=ffffff&bg_color=404040&hide_border=true&locale=en" alt="wahlstrommm" /></p>
+<img align="right" width=45%  src="https://github-readme-stats.vercel.app/api?username=wahlstrommm&show_icons=true&theme=dark&title_color=beb6b6&text_color=ffffff&bg_color=404040&hide_border=true&locale=en" alt="wahlstrommm" /></p>
 
  <p>&nbsp;</p>
 
