@@ -47,6 +47,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=powershell" />
+  </a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://npm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="60" height="40"/> </a><a href="https://www.trello.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"/> </a><a href="https://www.gimp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="gimp" width="40" height="40"/> </a><a href="https://www.inkscape.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="Inkscape" width="40" height="40"/>  <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://line.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/line/line-official.svg" alt="Line" width="40" height="40" /> </a>
   <a href="https://spotify.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/spotify/spotify-tile.svg" alt="Spotify" width="40" height="40" /> </a> </p>
