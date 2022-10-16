@@ -106,4 +106,7 @@
 <a href="https://wahlstrommm.github.io/newsletter-front/" align="right" target="_blank">
   <img src="./images/newsletter.jpg" width="45%" >
 </a>
+<a href="https://wahlstrommm.github.io/zoo-react/" align="right" target="_blank">
+  <img src="./images/zoo-react.jpg" width="45%" >
+</a>
 </details>
