@@ -84,7 +84,7 @@
   
   ###
   <a href="https://restaurangche.se" align="left" target="_blank">
-  <img src="che.jpg" width="30%" align="left">
+  <img src="./images/che.jpg" width="30%" align="left">
 </a>
 
 <a href="https://assarbertil.github.io/spelprogrammering/" align="right" target="_blank">
