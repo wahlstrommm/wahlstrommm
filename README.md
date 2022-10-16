@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="Magnus_.png" height="100%" width="100%"/>
+<img src="./images/Magnus_.png" height="100%" width="100%"/>
 </p>
 
 <p align="center">
