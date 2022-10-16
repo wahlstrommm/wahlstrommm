@@ -92,7 +92,7 @@
 </a>
 
 <a href="https://gridpainter-frontend.herokuapp.com/" align="right" target="_blank">
-  <img src="gridpainter.jpg" width="50%" algin="right">
+  <img src="./images/gridpainter.jpg" width="50%" algin="right">
 </a>
 <a href="https://medieinstitutet.github.io/fed21d-grafiska-verktyg-croissant/" align="right" target="_blank">
   <img src="./images/bakery.jpg" width="50%" algin="right">
