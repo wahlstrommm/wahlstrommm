@@ -84,7 +84,7 @@
 
 ##
 
-<details>
+<details align="center">
   <summary>Some of my projects demo 📂</summary>
   
   ###
