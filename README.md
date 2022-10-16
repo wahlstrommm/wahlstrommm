@@ -84,7 +84,7 @@
   
   ###
   <a href="https://restaurangche.se" align="left" target="_blank">
-  <img src="./images/che.jpg" width="30%" align="left">
+  <img src="./images/che-desktop.jpg" width="50%" align="left">
 </a>
 
 <a href="https://assarbertil.github.io/spelprogrammering/" align="right" target="_blank">
@@ -100,5 +100,7 @@
 <a href="https://gamershabandari.github.io/stader_och_lander/" align="right" target="_blank">
   <img src="./images/lander-stader.jpg" width="50%" algin="right">
 </a>
-
+<a href="https://wahlstrommm.github.io/loan-calculator/" align="right" target="_blank">
+  <img src="./images/loan-calculator.jpg" width="50%" algin="right">
+</a>
 </details>
