@@ -58,7 +58,7 @@
 <h3 align="center">Spare time:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,cs,tailwind,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=linux,cs,tailwind,raspberrypi,nextjs" />
   </a>
  <a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="webflow" width="40" height="40" /> </a><a href="https://shopify.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="shopify" width="40" height="40" /> </a>
 </p>
