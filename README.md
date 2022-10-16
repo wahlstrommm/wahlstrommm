@@ -109,4 +109,7 @@
 <a href="https://wahlstrommm.github.io/zoo-react/" align="right" target="_blank">
   <img src="./images/zoo-react.jpg" width="45%" >
 </a>
+<a href="https://wahlstrommm.github.io/booklist-vanillajs/" align="right" target="_blank">
+  <img src="./images/bookstore.jpg" width="45%" >
+</a>
 </details>
