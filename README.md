@@ -64,19 +64,21 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahlstrommm&show_icons=true&theme=dark&title_color=b6bebe&text_color=ffffff&bg_color=404040&hide_border=true&locale=en&layout=compact" alt="wahlstrommm"   width=40%/>
 <img align="right" width=46%  src="https://github-readme-stats.vercel.app/api?username=wahlstrommm&show_icons=true&theme=dark&title_color=beb6b6&text_color=ffffff&bg_color=404040&hide_border=true&locale=en" alt="wahlstrommm" /></p>
-
  <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-
+<p>&nbsp;</p>
 
 ##
+
+
+
+<p>&nbsp;</p>
+
+
+
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=magnus1995&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <a href="https://app.daily.dev/wahlstrommm"><img src="https://github.com/wahlstrommm/wahlstrommm/blob/main/devcard.svg" width="300" alt="MW's Dev Card" align="right"/></a>
