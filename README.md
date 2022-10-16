@@ -84,23 +84,23 @@
   
   ###
   <a href="https://restaurangche.se" align="left" target="_blank">
-  <img src="./images/che-desktop.jpg" width="50%" align="left">
+  <img src="./images/che-desktop.jpg" width="45%" >
 </a>
 
 <a href="https://assarbertil.github.io/spelprogrammering/" align="right" target="_blank">
-  <img src="./images/jeff-spel.jpg" width="50%" align="left">
+  <img src="./images/jeff-spel.jpg" width="45%">
 </a>
 
-<a href="https://gridpainter-frontend.herokuapp.com/" align="right" target="_blank">
-  <img src="./images/gridpainter.jpg" width="50%" algin="right">
+<a href="https://gridpainter-frontend.herokuapp.com/" target="_blank" algin="right">
+  <img src="./images/gridpainter.jpg" width="45%">
 </a>
-<a href="https://medieinstitutet.github.io/fed21d-grafiska-verktyg-croissant/" align="right" target="_blank">
-  <img src="./images/bakery.jpg" width="50%" algin="right">
+<a href="https://medieinstitutet.github.io/fed21d-grafiska-verktyg-croissant/" algin="right" target="_blank">
+  <img src="./images/bakery.jpg" width="45%" algin="right">
 </a>
 <a href="https://gamershabandari.github.io/stader_och_lander/" align="right" target="_blank">
-  <img src="./images/lander-stader.jpg" width="50%" algin="right">
+  <img src="./images/lander-stader.jpg" width="45%" >
 </a>
 <a href="https://wahlstrommm.github.io/loan-calculator/" align="right" target="_blank">
-  <img src="./images/loan-calculator.jpg" width="50%" algin="right">
+  <img src="./images/loan-calculator.jpg" width="45%" >
 </a>
 </details>
