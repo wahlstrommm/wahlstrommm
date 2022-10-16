@@ -97,5 +97,8 @@
 <a href="https://medieinstitutet.github.io/fed21d-grafiska-verktyg-croissant/" align="right" target="_blank">
   <img src="./images/bakery.jpg" width="50%" algin="right">
 </a>
+<a href="https://gamershabandari.github.io/stader_och_lander/" align="right" target="_blank">
+  <img src="./images/lander-stader.jpg" width="50%" algin="right">
+</a>
 
 </details>
