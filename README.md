@@ -88,7 +88,7 @@
 </a>
 
 <a href="https://assarbertil.github.io/spelprogrammering/" align="right" target="_blank">
-  <img src="jeff-spel.jpg" width="50%" align="left">
+  <img src="./images/jeff-spel.jpg" width="50%" align="left">
 </a>
 
 <a href="https://gridpainter-frontend.herokuapp.com/" align="right" target="_blank">
