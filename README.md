@@ -103,4 +103,7 @@
 <a href="https://wahlstrommm.github.io/loan-calculator/" align="right" target="_blank">
   <img src="./images/loan-calculator.jpg" width="45%" >
 </a>
+<a href="https://wahlstrommm.github.io/newsletter-front/" align="right" target="_blank">
+  <img src="./images/newsletter.jpg" width="45%" >
+</a>
 </details>
