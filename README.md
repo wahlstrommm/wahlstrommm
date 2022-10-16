@@ -112,4 +112,7 @@
 <a href="https://wahlstrommm.github.io/booklist-vanillajs/" align="right" target="_blank">
   <img src="./images/bookstore.jpg" width="45%" >
 </a>
+<a href="https://wahlstrommm.github.io/number-guesser/" align="right" target="_blank">
+  <img src="./images/number-gusser-game.jpg" width="45%" >
+</a>
 </details>
