@@ -69,7 +69,7 @@
 <img align="right" width=46%  src="https://github-readme-stats.vercel.app/api?username=wahlstrommm&show_icons=true&theme=dark&title_color=beb6b6&text_color=ffffff&bg_color=404040&hide_border=true&locale=en" alt="wahlstrommm" /></p>
 
 
- <p>&nbsp;</p>
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
