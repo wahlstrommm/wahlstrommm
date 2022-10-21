@@ -28,12 +28,12 @@
 <h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,typescript,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,typescript,jquery" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,nodejs,mongodb,mysql,express,php,jquery" />
+    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,mongodb,mysql,express,php,md" />
   </a>
 </p>
  <p>&nbsp;</p>
