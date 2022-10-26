@@ -99,6 +99,10 @@
   <img src="./images/che-desktop.jpg" width="45%" >
 </a>
 
+ <a href="https://wahlstrommm.github.io/tracker-app/" align="left" target="_blank">
+  <img src="./images/expense-tracker.png" width="45%" >
+</a>
+
 <a href="https://assarbertil.github.io/spelprogrammering/" align="right" target="_blank">
   <img src="./images/jeff-spel.jpg" width="45%">
 </a>
