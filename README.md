@@ -1,7 +1,7 @@
  <img src="https://komarev.com/ghpvc/?username=wahlstrommm&label=Profile%20views&color=ae3d8a&style=plastic" align="left" alt="wahlstrommm" />
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Magnus 👨‍🦳🥱</h1>
-<h2 align="center">Frontend developer student from Sweden ❄️ ☃️ 🇸🇪</h2>
+<h2 align="center">Frontend developer from Sweden ❄️ ☃️ 🇸🇪</h2>
 
 </p>
 
