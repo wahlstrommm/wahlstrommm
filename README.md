@@ -7,9 +7,12 @@ Front-End Developer & IT Technician
 -----------------------------------
 </p>
 
-<p align="center">
-<img src="./images/Magnus_.png" height="100%" width="100%"/>
-</p>
+* 🌍  I'm based in Sweden
+* 🖥️  See my portfolio at [www.magnusvahlstrom.se](http://magnusvahlstrom.se)
+* ✉️  You can contact me at [wahlstrommm@gmail.com](mailto:wahlstrommm@gmail.com)
+* 🧠  I'm learning Next.js & PowerShell
+
+> The man who asks a question is a fool for a minute, the man who does not ask is a fool for life." — Confucius
 
 <p align="center">
 
