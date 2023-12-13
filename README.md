@@ -91,13 +91,9 @@ src="https://img.shields.io/github/followers/wahlstrommm?logo=github&style=for-t
 
 ##
 
-
+<!--
 <a href="https://app.daily.dev/wahlstrommm"><img src="https://github.com/wahlstrommm/wahlstrommm/blob/main/devcard.svg" width="300" alt="MW's Dev Card" align="right"/></a>
-
-##
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+-->
 
 <details align="center">
   <summary>Some of my projects demo 📂</summary>
@@ -146,3 +142,8 @@ src="https://img.shields.io/github/followers/wahlstrommm?logo=github&style=for-t
   <img src="./images/todo-list.jpg" width="45%" >
 </a>
 </details>
+
+##
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
