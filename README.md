@@ -1,12 +1,25 @@
+ <img src="https://komarev.com/ghpvc/?username=wahlstrommm&label=Profile%20views&color=ae3d8a&style=plastic" align="left" alt="wahlstrommm" />
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Magnus V
 ========================================================================================================================================
 
 Front-End Developer & IT Technician
 -----------------------------------
- <img src="https://komarev.com/ghpvc/?username=wahlstrommm&label=Profile%20views&color=ae3d8a&style=plastic" align="left" alt="wahlstrommm" />
-<a href="https://www.github.com/wahlstrommm" target="_blank" rel="noreferrer" align="left"><img
+
+<div algin="left" >
+ <a href="https://www.linkedin.com/in/magnus-vahlstrom/">
+  
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+ </a>
+  
+
+<a href="https://www.github.com/wahlstrommm" target="_blank" rel="noreferrer" ><img
 src="https://img.shields.io/github/followers/wahlstrommm?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</div>
 </p>
+
+
 
 * 🌍  I'm based in Sweden
 * 🖥️  See my portfolio at: [www.magnusvahlstrom.se](http://magnusvahlstrom.se)
