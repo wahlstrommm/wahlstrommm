@@ -110,7 +110,7 @@ src="https://img.shields.io/github/followers/wahlstrommm?logo=github&style=for-t
 -->
 
 <details align="center">
-  <summary>Some of my projects demo 📂</summary>
+  <summary>Some of my projects 📂</summary>
   
   ###
   <a href="https://restaurangche.se" align="left" target="_blank">
