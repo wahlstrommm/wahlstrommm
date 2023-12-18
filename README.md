@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/wahlstrommm?logo=github&style=for-t
 
 
 
-* 🌍  I'm based in Sweden
+* 🌍  I'm based in Sweden, Uppsala
 * 🖥️  See my portfolio at: [www.magnusvahlstrom.se](http://magnusvahlstrom.se)
 * ✉️  You can contact me at: [wahlstrommm@gmail.com](mailto:wahlstrommm@gmail.com)
 
