@@ -24,6 +24,7 @@ src="https://img.shields.io/github/followers/wahlstrommm?logo=github&style=for-t
 * 🌍  I'm based in Sweden, Uppsala
 * 🖥️  See my portfolio at: [www.magnusvahlstrom.se](http://magnusvahlstrom.se)
 * ✉️  You can contact me at: [wahlstrommm@gmail.com](mailto:wahlstrommm@gmail.com)
+* Test
 
 
 > The man who asks a question is a fool for a minute, the man who does not ask is a fool for life." — Confucius
