@@ -43,57 +43,22 @@ I enjoy building modern, responsive web applications and continuously learning n
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,angular,nodejs,express,php,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,angular,nodejs,express,php,mysql,mongodb,vite,jquery" />
 </p>
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,wordpress,vscode,ps,ai,xd,linux,powershell" />
+  <img src="https://skillicons.dev/icons?i=git,figma,wordpress,vscode,ps,ai,xd,linux,ubuntu,powershell,vercel,cloudflare,npm,notion" />
 </p>
 
 ### Currently Exploring
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,raspberrypi,docker" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,docker,raspberrypi" />
 </p>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=wahlstrommm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 
 ---
 
-## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/wahlstrommm/che-routine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahlstrommm&repo=che-routine&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/wahlstrommm/che-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahlstrommm&repo=che-backend&theme=dark&hide_border=true" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/wahlstrommm/Giftary">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahlstrommm&repo=Giftary&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/wahlstrommm/gridpainter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahlstrommm&repo=gridpainter&theme=dark&hide_border=true" />
-  </a>
-</p>
 
----
-
-## 🧠 Fun Extras
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg" />
-</p>
-
-<p align="center">
-  Thanks for stopping by! ⭐  
-</p>
