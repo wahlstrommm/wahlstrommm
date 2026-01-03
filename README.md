@@ -1,170 +1,104 @@
- <img src="https://komarev.com/ghpvc/?username=wahlstrommm&label=Profile%20views&color=ae3d8a&style=plastic" align="left" alt="wahlstrommm" />
+<img src="https://komarev.com/ghpvc/?username=wahlstrommm&label=Profile%20views&color=ae3d8a&style=plastic" align="right" />
 
+# Hi there 👋 I'm Magnus V
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Magnus V
-========================================================================================================================================
+### Front-End Developer & IT Technician  
+📍 Uppsala, Sweden
 
-Front-End Developer & IT Technician
------------------------------------
+---
 
-<div algin="left" >
- <a href="https://www.linkedin.com/in/magnus-vahlstrom/">
-  
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
- </a>
-  
+## 👨‍💻 About Me
 
-<a href="https://www.github.com/wahlstrommm" target="_blank" rel="noreferrer" ><img
-src="https://img.shields.io/github/followers/wahlstrommm?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-</div>
-</p>
+I'm a passionate **Front-End Developer** with a strong background in **IT & troubleshooting**.  
+I enjoy building modern, responsive web applications and continuously learning new technologies.
 
+- 🌍 Based in **Uppsala, Sweden**
+- 🖥️ Portfolio: **[magnusvahlstrom.se](http://magnusvahlstrom.se)**
+- ✉️ Contact:  
+  - **wahlstrommm@gmail.com**  
+  - **dev@magnusvahlstrom.se**
 
+> *"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."*  
+> — Confucius
 
-* 🌍  I'm based in Sweden, Uppsala
-* 🖥️  See my portfolio at: [www.magnusvahlstrom.se](http://magnusvahlstrom.se)
-* ✉️  You can contact me at: [wahlstrommm@gmail.com](mailto:wahlstrommm@gmail.com) or [dev@magnusvahlstrom.se](mailto:dev@magnusvahlstrom.se)
+---
 
-
-
-> The man who asks a question is a fool for a minute, the man who does not ask is a fool for life." — Confucius
+## 🔗 Connect with me
 
 <p align="center">
-
-</p>
-
-#
-
-<p align="center">
-<a href="https://fb.com/magnus.wahlstrommm" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="magnus.wahlstrommm" height="30" width="40" /></a>
-<a href="https://instagram.com/magnusvahlstrom" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="magnusvahlstrom" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/magnus-vahlstrom/" target="blank">
- <a href="https://dev.to/wahlstrommm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wahlstrommm" height="30" width="40" /></a><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/magnus-vahlstrom/" height="30" width="40" /></a><a href="https://dribbble.com/wahlstrommm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="wahlstrommm" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15396268" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15396268" height="30" width="40" /></a>
- </p>
-
-#
-
-<h3 align="center">Languages:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,typescript,jquery,styledcomponents" />
+  <a href="https://www.linkedin.com/in/magnus-vahlstrom/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/wahlstrommm">
+    <img src="https://img.shields.io/badge/GitHub-1c1917?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://dev.to/wahlstrommm">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Frameworks
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,mongodb,mysql,express,php,md" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,angular,nodejs,express,php,mysql,mongodb" />
 </p>
- <p>&nbsp;</p>
-<h3 align="center">Tools:</h3>
+
+### Tools & Platforms
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,heroku,figma,wordpress,ps,ai,xd,discord,codepen" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,figma,wordpress,vscode,ps,ai,xd,linux,powershell" />
 </p>
+
+### Currently Exploring
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell" />
-  </a>
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://npm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="60" height="40"/> </a><a href="https://www.trello.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"/> </a><a href="https://www.gimp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="gimp" width="40" height="40"/> </a><a href="https://www.inkscape.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="Inkscape" width="40" height="40"/>  <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://line.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/line/line-official.svg" alt="Line" width="40" height="40" /> </a>
-  <a href="https://spotify.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/spotify/spotify-tile.svg" alt="Spotify" width="40" height="40" /> </a> </p>
- </p>
- <p>&nbsp;</p>
-<h3 align="center">Spare time:</h3>
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,raspberrypi,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,cs,tailwind,raspberrypi,nextjs,visualstudio" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wahlstrommm&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahlstrommm&theme=dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahlstrommm&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/wahlstrommm/che-routine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahlstrommm&repo=che-routine&theme=dark&hide_border=true" />
   </a>
- <a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="webflow" width="40" height="40" /> </a><a href="https://shopify.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="shopify" width="40" height="40" /> </a>
+  <a href="https://github.com/wahlstrommm/che-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahlstrommm&repo=che-backend&theme=dark&hide_border=true" />
+  </a>
 </p>
 
-#
-
-<a href="http://www.github.com/wahlstrommm" align="right" ><img src="https://github-readme-stats.vercel.app/api?username=wahlstrommm&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wahlstrommm's GitHub stats" align="left"  /></a>
-
-<a href="http://www.github.com/wahlstrommm" align="right" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=wahlstrommm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/wahlstrommm" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahlstrommm&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="right" /></a>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-##
-
-<p>
-<div width="100%" align="center"><a href="https://github.com/wahlstrommm/che-routine" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wahlstrommm&repo=che-routine&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/wahlstrommm/che-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wahlstrommm&repo=che-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-</p>
-<p>
- <div width="100%" align="center"><a href="https://github.com/wahlstrommm/Giftary" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wahlstrommm&repo=Giftary&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/wahlstrommm/gridpainter" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wahlstrommm&repo=gridpainter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p align="center">
+  <a href="https://github.com/wahlstrommm/Giftary">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahlstrommm&repo=Giftary&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/wahlstrommm/gridpainter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahlstrommm&repo=gridpainter&theme=dark&hide_border=true" />
+  </a>
 </p>
 
+---
 
-##
+## 🧠 Fun Extras
 
-<!--
-<a href="https://app.daily.dev/wahlstrommm"><img src="https://github.com/wahlstrommm/wahlstrommm/blob/main/devcard.svg" width="300" alt="MW's Dev Card" align="right"/></a>
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg" />
+</p>
 
-<details align="center">
-  <summary>Some of my projects 📂</summary>
-  
-  ###
-  <a href="https://restaurangche.se" align="left" target="_blank">
-  <img src="./images/che-desktop.jpg" width="45%" >
-</a>
-
- <a href="https://wahlstrommm.github.io/tracker-app/" align="left" target="_blank">
-  <img src="./images/expense-tracker.png" width="45%" >
-</a>
-
-<a href="https://assarbertil.github.io/spelprogrammering/" align="right" target="_blank">
-  <img src="./images/jeff-spel.jpg" width="45%">
-</a>
-
-<a href="https://gridpainter-frontend.herokuapp.com/" target="_blank" algin="right">
-  <img src="./images/gridpainter.jpg" width="45%">
-</a>
-<a href="https://medieinstitutet.github.io/fed21d-grafiska-verktyg-croissant/" algin="right" target="_blank">
-  <img src="./images/bakery.jpg" width="45%" algin="right">
-</a>
-<a href="https://gamershabandari.github.io/stader_och_lander/" align="right" target="_blank">
-  <img src="./images/lander-stader.jpg" width="45%" >
-</a>
-<a href="https://wahlstrommm.github.io/loan-calculator/" align="right" target="_blank">
-  <img src="./images/loan-calculator.jpg" width="45%" >
-</a>
-<a href="https://wahlstrommm.github.io/react-Goals-todo/" align="right" target="_blank">
-  <img src="./images/react-todo-goals.png" width="45%" >
-</a>
-<a href="https://wahlstrommm.github.io/newsletter-front/" align="right" target="_blank">
-  <img src="./images/newsletter.jpg" width="45%" >
-</a>
-<a href="https://wahlstrommm.github.io/zoo-react/" align="right" target="_blank">
-  <img src="./images/zoo-react.jpg" width="45%" >
-</a>
-<a href="https://wahlstrommm.github.io/booklist-vanillajs/" align="right" target="_blank">
-  <img src="./images/bookstore.jpg" width="45%" >
-</a>
-<a href="https://wahlstrommm.github.io/number-guesser/" align="right" target="_blank">
-  <img src="./images/number-gusser-game.jpg" width="45%" >
-</a>
-<a href="https://wahlstrommm.github.io/todo-list/" align="right" target="_blank">
-  <img src="./images/todo-list.jpg" width="45%" >
-</a>
-</details>
-
-##
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wahlstrommm&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  Thanks for stopping by! ⭐  
+</p>
