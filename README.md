@@ -59,22 +59,9 @@ I enjoy building modern, responsive web applications and continuously learning n
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=wahlstrommm&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=wahlstrommm&theme=dark&hide_border=true&cache_seconds=1800" 
-    width="48%" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahlstrommm&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" 
-  />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=wahlstrommm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
 ---
