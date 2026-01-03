@@ -92,7 +92,11 @@ src="https://img.shields.io/github/followers/wahlstrommm?logo=github&style=for-t
 <a href="https://github.com/wahlstrommm" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahlstrommm&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="right" /></a>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=magnus1995&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ##
 
