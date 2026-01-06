@@ -48,7 +48,7 @@ I enjoy building modern, responsive web applications – from intuitive user int
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,wordpress,vscode,ps,ai,xd,linux,ubuntu,powershell,vercel,cloudflare,npm,notion,wordpress" />
+  <img src="https://skillicons.dev/icons?i=git,figma,wordpress,vscode,ps,ai,xd,linux,ubuntu,powershell,vercel,cloudflare,npm,notion,wordpress&perline=7" />
 </p>
 
 ### Currently Exploring
