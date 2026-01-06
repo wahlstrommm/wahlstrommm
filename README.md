@@ -61,4 +61,12 @@ I enjoy building modern, responsive web applications – from intuitive user int
 
 
 
+<div align="center">
+<a href="https://github.com/wahlstrommm">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wahlstrommm&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wahlstrommm&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wahlstrommm&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wahlstrommm&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahlstrommm&theme=2077" height="180em" />
+</div>
 
