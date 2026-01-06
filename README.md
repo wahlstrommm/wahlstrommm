@@ -43,7 +43,7 @@ I enjoy building modern, responsive web applications – from intuitive user int
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,angular,nodejs,express,php,mysql,mongodb,vite,jquery,bash,cs&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,angular,nodejs,express,php,mysql,mongodb,vite,jquery,bash,cs&perline=8" />
 </p>
 
 ### Tools & Platforms
