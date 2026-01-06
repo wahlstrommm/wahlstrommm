@@ -44,6 +44,9 @@ I enjoy building modern, responsive web applications – from intuitive user int
 ### Languages & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,angular,nodejs,express,php,mysql,mongodb,vite,jquery,bash,cs" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg"
+     width="48" />
+
 </p>
 
 ### Tools & Platforms
