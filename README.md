@@ -1,18 +1,11 @@
 <img src="https://komarev.com/ghpvc/?username=wahlstrommm&label=Profile%20views&color=ae3d8a&style=plastic" align="right" />
 
  
-# Hi there 👋 I'm Magnus V 
 
 ### Front-End Developer turned Fullstack Developer & IT Technician
 
-📍 Uppsala, Sweden
-
-👨‍💻 About Me  
-I'm a Front-End Developer by education, now working as a **Fullstack Developer** with a strong background in IT & troubleshooting.  
-I enjoy building modern, responsive web applications – from intuitive user interfaces to reliable backend solutions – and continuously learning new technologies.
 
 
-- 🌍 Based in **Uppsala, Sweden**
 - 🖥️ Portfolio: **[magnusvahlstrom.se](http://magnusvahlstrom.se)**
 - ✉️ Contact:  
   - **wahlstrommm@gmail.com**  
@@ -23,7 +16,7 @@ I enjoy building modern, responsive web applications – from intuitive user int
 
 ---
 
-## 🔗 Connect with me
+## Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/magnus-vahlstrom/">
