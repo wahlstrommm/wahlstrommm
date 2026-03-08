@@ -65,7 +65,7 @@
 
 ### Currently Exploring
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,docker,raspberrypi,graphql" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,docker,raspberrypi,graphql,laravel" />
 </p>
 
 
