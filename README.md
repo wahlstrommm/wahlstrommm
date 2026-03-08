@@ -55,7 +55,7 @@
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,angular,nodejs,express,php,mysql,mongodb,vite,jquery,bash,cs&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,angular,nodejs,express,php,mysql,mongodb,vite,jquery,bash,cs,nextjs,tailwind&perline=9" />
 </p>
 
 ### Tools & Platforms
@@ -65,7 +65,7 @@
 
 ### Currently Exploring
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,docker,raspberrypi,graphql,laravel,latex" />
+  <img src="https://skillicons.dev/icons?i=docker,raspberrypi,graphql,laravel,latex" />
 </p>
 
 
