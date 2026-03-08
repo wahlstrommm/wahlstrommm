@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=wahlstrommm&label=Profile%20views&color=ae3d8a&style=plastic" align="right" />
+<img src="https://komarev.com/ghpvc/?username=wahlstrommm&label=Profile%20views&color=ae3d8a&style=for-the-badge&label=FANS&abbreviated=true" align="right" />
 
  
 
