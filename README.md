@@ -42,10 +42,14 @@
 </div>
 
 ---
+<p align="center">
+
 <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
+<a href="https://www.github.com/wahlstrommm" target="_blank" rel="noreferrer"><img
+                src="https://img.shields.io/github/followers/wahlstrommm?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+ </p>
 
- 
 
 ## 🛠 Tech Stack
 
